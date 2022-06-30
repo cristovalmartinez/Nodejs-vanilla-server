@@ -1,0 +1,14 @@
+{
+  "name": "node-vanilla-server",
+  "version": "1.0.0",
+  "description": "ES6 nodejs web server created without any frameworks/dependencies",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Cristoval Martinez",
+  "license": "ISC"
+}
