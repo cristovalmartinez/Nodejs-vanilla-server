@@ -2,14 +2,16 @@
 </br>
 
 ### :bangbang: Let's Connect
+
 [![website-shield][website-shield]][website-url] [![LinkedIn][linkedin-shield]][linkedin-url] [![instagram-shield][instagram-shield]][instagram-url]
 </br>
 </br>
+
 </div>
 <div align="center">
 <div>
 
-## Basic Node JS Web Server
+<h1>Basic Node JS Web Server</h1>
 
 <br>
 <br>
@@ -19,11 +21,13 @@
 <br>
 <br>
 
-### Getting Started
+### :dart: Getting Started
+
 <p>
 no need to install 3rd party packages. simple node js web server</p>
 
-### Config
+### :dart: Config
+
 <p>
 update .env file with desired port number. Install dotenv as a dev dependency
 </p>
@@ -31,6 +35,7 @@ update .env file with desired port number. Install dotenv as a dev dependency
 `npm i dotenv -D`
 
 ### :space_invader: Tech Stack
+
 <p>simple server with global node modules. Install dotenv (optional)</p>
 
 - [Node.js](https://nodejs.org/en/docs/)
