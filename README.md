@@ -14,8 +14,11 @@
 <div align="center">
     
 <div>
+<div align="center"> 
+  <img src="https://nodejs.org/static/images/logo.svg" alt="screenshot" />
+</div>
 
-## simple node js server
+## Basic Node JS Web Server
 
 <br>
 <br>
@@ -26,22 +29,20 @@
 <p>
 no need to install 3rd party packages. **simple node js web server</p>
 
-
 ### configurations
 
 <p>
 update .env file with desired port number. Install dotenv as a dev dependency
 </p>
-```
-npm i dotenv -D
-```
 
-### technologies used
+`npm install dotenv -D`
+
+### :space_invader: tech stack
 
 <p>simple server with global node modules. Install dotenv if desire</p>
 
 - [Node.js](https://nodejs.org/en/docs/)
-- [dotenv] (https://www.npmjs.com/package/dotenv)
+- [dotenv](https://www.npmjs.com/package/dotenv)
     </div>
 
 <!-- [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge -->
