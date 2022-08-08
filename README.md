@@ -1,54 +1,41 @@
-<div id="top"></div>
 <div align="center">
-    
-</br>
 </br>
 
 ### :bangbang: Let's Connect
-
 [![website-shield][website-shield]][website-url] [![LinkedIn][linkedin-shield]][linkedin-url] [![instagram-shield][instagram-shield]][instagram-url]
-
 </br>
 </br>
-
 </div>
-
 <div align="center">
-    
 <div>
 
 ## Basic Node JS Web Server
 
 <br>
 <br>
-
 <div align="center"> 
   <img src="https://nodejs.org/static/images/logo.svg" width="300" alt="screenshot" />
 </div>
-
 <br>
 <br>
 
 ### Getting Started
-
 <p>
 no need to install 3rd party packages. simple node js web server</p>
 
-### configurations
-
+### Config
 <p>
 update .env file with desired port number. Install dotenv as a dev dependency
 </p>
 
 `npm i dotenv -D`
 
-### :space_invader: tech stack
-
+### :space_invader: Tech Stack
 <p>simple server with global node modules. Install dotenv (optional)</p>
 
 - [Node.js](https://nodejs.org/en/docs/)
 - [dotenv](https://www.npmjs.com/package/dotenv)
-    </div>
+</div>
 
 <!-- [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge -->
 
