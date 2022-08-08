@@ -4,6 +4,8 @@
 </br>
 </br>
 
+### :bangbang: Let's Connect
+
 [![website-shield][website-shield]][website-url] [![LinkedIn][linkedin-shield]][linkedin-url] [![instagram-shield][instagram-shield]][instagram-url]
 
 </br>
@@ -19,10 +21,9 @@
 
 <br>
 <br>
-<br>
 
 <div align="center"> 
-  <img src="https://nodejs.org/static/images/logo.svg" width="400" alt="screenshot" />
+  <img src="https://nodejs.org/static/images/logo.svg" width="300" alt="screenshot" />
 </div>
 
 <br>
