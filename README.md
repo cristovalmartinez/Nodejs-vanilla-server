@@ -1,14 +1,4 @@
 <div align="center">
-</br>
-
-### :bangbang: Let's Connect
-
-[![website-shield][website-shield]][website-url] [![LinkedIn][linkedin-shield]][linkedin-url] [![instagram-shield][instagram-shield]][instagram-url]
-</br>
-</br>
-
-</div>
-<div align="center">
 <div>
 
 <h1>Basic Node JS Web Server</h1>
@@ -40,6 +30,17 @@ update .env file with desired port number. Install dotenv as a dev dependency
 
 - [Node.js](https://nodejs.org/en/docs/)
 - [dotenv](https://www.npmjs.com/package/dotenv)
+</div>
+
+<div align="center">
+</br>
+
+### :bangbang: Let's Connect
+
+[![website-shield][website-shield]][website-url] [![LinkedIn][linkedin-shield]][linkedin-url] [![instagram-shield][instagram-shield]][instagram-url]
+</br>
+</br>
+
 </div>
 
 <!-- [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge -->
