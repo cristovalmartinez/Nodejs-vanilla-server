@@ -1,18 +1,16 @@
 /* node core modules */
 import http from 'http'
-import fs from 'fs'
-
-const port = process.env.PORT || 4300
+import { readFile } from 'fs'
+import path from 'path'
+const port = parseInt(process.env.PORT) || 4300
 const url = 'localhost'
 
-const server = http.createServer((req, res) => {
-  fs.readFile('./index.html', (err, data) => {
-    if (err) {
-      throw err
-    }
+const client = `${path.resolve()}/index.html`
 
+const server = http.createServer((req, res) => {
+  readFile(client, (err, data) => {
     res.write(data)
-    res.end()
+    return res.end()
   })
 })
 
