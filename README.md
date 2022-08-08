@@ -1,5 +1,6 @@
 <div align="center">
 <div>
+<br>
 
 <h1>Basic Node JS Web Server</h1>
 
@@ -14,19 +15,19 @@
 ### :dart: Getting Started
 
 <p>
-no need to install 3rd party packages. simple node js web server</p>
+No need to install 3rd party packages. Simple node js web server</p>
 
 ### :dart: Config
 
 <p>
-update .env file with desired port number. Install dotenv as a dev dependency
+Update .env file with desired port number. Install dotenv as a dev dependency
 </p>
 
-`npm i dotenv -D`
+1. `npm i dotenv -D`
 
 ### :space_invader: Tech Stack
 
-<p>simple server with global node modules. Install dotenv (optional)</p>
+<p>Server with global node modules. Install dotenv (optional)</p>
 
 - [Node.js](https://nodejs.org/en/docs/)
 - [dotenv](https://www.npmjs.com/package/dotenv)
@@ -35,7 +36,7 @@ update .env file with desired port number. Install dotenv as a dev dependency
 <div align="center">
 </br>
 
-### :bangbang: Let's Connect
+#### :bangbang: Let's connect
 
 [![website-shield][website-shield]][website-url] [![LinkedIn][linkedin-shield]][linkedin-url] [![instagram-shield][instagram-shield]][instagram-url]
 </br>
