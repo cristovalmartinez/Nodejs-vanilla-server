@@ -57,9 +57,9 @@ Update .env file with desired port number. Install dotenv as a dev dependency
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white -->
 
-[linkedin-shield]: https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin
+[linkedin-shield]: https://img.shields.io/badge/linkedin-blue?style=flat&logo=linkedin
 [linkedin-url]: https://www.linkedin.com/in/cristoval
-[instagram-shield]: https://img.shields.io/badge/instagram-orange?style=for-the-badge&logo=instagram&logoColor=white
+[instagram-shield]: https://img.shields.io/badge/instagram-orange?style=flat&logo=instagram&logoColor=white
 [instagram-url]: https://www.instagram/cristhedev
-[website-shield]: https://img.shields.io/badge/website-gray?style=for-the-badge&logo=stylelint&logoColor=white
+[website-shield]: https://img.shields.io/badge/website-gray?style=flat&logo=stylelint&logoColor=white
 [website-url]: https://www.cristhedev.com
