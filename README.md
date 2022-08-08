@@ -14,9 +14,6 @@
 <div align="center">
     
 <div>
-<div align="center"> 
-  <img src="https://nodejs.org/static/images/logo.svg" alt="screenshot" />
-</div>
 
 ## Basic Node JS Web Server
 
@@ -24,10 +21,17 @@
 <br>
 <br>
 
+<div align="center"> 
+  <img src="https://nodejs.org/static/images/logo.svg" width="400" alt="screenshot" />
+</div>
+
+<br>
+<br>
+
 ### Getting Started
 
 <p>
-no need to install 3rd party packages. **simple node js web server</p>
+no need to install 3rd party packages. simple node js web server</p>
 
 ### configurations
 
@@ -35,11 +39,11 @@ no need to install 3rd party packages. **simple node js web server</p>
 update .env file with desired port number. Install dotenv as a dev dependency
 </p>
 
-`npm install dotenv -D`
+`npm i dotenv -D`
 
 ### :space_invader: tech stack
 
-<p>simple server with global node modules. Install dotenv if desire</p>
+<p>simple server with global node modules. Install dotenv (optional)</p>
 
 - [Node.js](https://nodejs.org/en/docs/)
 - [dotenv](https://www.npmjs.com/package/dotenv)
