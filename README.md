@@ -23,15 +23,24 @@
 
 ### Getting Started
 <p>
-no need to install 3rd packages. This is a simple node web server</p>
+no need to install 3rd party packages. _simple_ node js web server</p>
  
-    npm install npm@latest -g 
+
+### configurations
+<p>
+update .env file with desired port number. Install dotenv as a dev dependency
+</p>
+
+npm i dotenv -D
+
+
 
 ### technologies used
 
-<p>simple server with global node packages.</p>
+<p>simple server with global node modules. Install dotenv if desire</p>
 
 - [Node.js](https://nodejs.org/en/docs/)
+- [package -> dotenv] (https://www.npmjs.com/package/dotenv)
     </div>
 
 <!-- [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge -->
