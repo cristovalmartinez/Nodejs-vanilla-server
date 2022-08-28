@@ -25,7 +25,7 @@ Update .env file with desired port number. Install dotenv as a dev dependency
 
 1. `npm i dotenv -D`
 
-### :space_invader: Tech Stack
+### :space_invader: Dependencies
 
 <p>Server with global node modules. Install dotenv (optional)</p>
 
